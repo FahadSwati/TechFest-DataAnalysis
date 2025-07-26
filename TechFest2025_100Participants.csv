@@ -1,0 +1,101 @@
+Name,City,Profession,Age,Workshop,Presentation_Score,Feedback_Rating
+Sana Tariq,Faisalabad,Front-end Developer,28,Ethical Hacking,67,1
+Rameen Tariq,Multan,AI Researcher,41,Cyber Defense,83,3
+Umar Khalid,Lahore,Front-end Developer,36,Ethical Hacking,70,2
+Kiran Siddiqui,Peshawar,DevOps Engineer,32,Product Strategy,76,5
+Nida Farooq,Islamabad,Web Developer,29,Deep Learning,67,4
+Fatima Noor,Sialkot,ML Engineer,42,ReactJS Masterclass,94,2
+Noman Saeed,Rawalpindi,Data Scientist,28,ReactJS Masterclass,94,4
+Arsalan Rauf,Gujranwala,Front-end Developer,40,ML Ops,92,3
+Afshan Zubair,Islamabad,Cybersecurity Analyst,44,Python for Backend,64,3
+Hamza Sheikh,Multan,DevOps Engineer,32,Cyber Defense,98,1
+Muneeb Aslam,Hyderabad,Backend Developer,32,Ethical Hacking,100,5
+Basit Iqbal,Karachi,Database Admin,45,AI in Healthcare,87,4
+Arsalan Rauf,Islamabad,UI/UX Designer,42,Product Strategy,66,2
+Anam Khalid,Bahawalpur,DevOps Engineer,25,Cyber Defense,68,3
+Laiba Hassan,Multan,Front-end Developer,29,Design Thinking,67,1
+Basit Iqbal,Hyderabad,Cybersecurity Analyst,45,Data Storytelling,71,1
+Areeba Khan,Karachi,DevOps Engineer,24,Design Thinking,93,4
+Sana Tariq,Rawalpindi,Front-end Developer,43,Cyber Defense,92,3
+Tania Bukhari,Hyderabad,ML Engineer,42,Cyber Defense,82,5
+Danish Ali,Peshawar,Backend Developer,23,AI in Healthcare,83,3
+Mehwish Khan,Sialkot,Software Engineer,45,Kubernetes 101,96,4
+Junaid Farooq,Karachi,Product Manager,33,Product Strategy,94,4
+Arsalan Rauf,Hyderabad,Database Admin,27,ML Ops,99,3
+Rabia Zafar,Islamabad,ML Engineer,23,Python for Backend,81,4
+Omer Abbasi,Quetta,Data Scientist,42,Deep Learning,86,3
+Tariq Bashir,Bahawalpur,Backend Developer,22,Data Storytelling,94,2
+Areeba Khan,Gujranwala,Product Manager,33,Cloud Computing,60,3
+Basit Iqbal,Quetta,AI Researcher,43,Product Strategy,94,3
+Basit Iqbal,Faisalabad,Data Scientist,33,Python for Backend,96,4
+Anam Khalid,Multan,ML Engineer,38,ML Ops,73,4
+Adeel Bhatti,Quetta,Front-end Developer,31,Product Strategy,62,1
+Bilal Ahmed,Islamabad,Data Scientist,37,Kubernetes 101,60,1
+Saifullah Mehmood,Karachi,UI/UX Designer,36,Kubernetes 101,64,2
+Bilal Ahmed,Islamabad,ML Engineer,36,Design Thinking,85,1
+Afshan Zubair,Rawalpindi,Product Manager,40,ReactJS Masterclass,73,3
+Umar Khalid,Islamabad,Product Manager,33,Cloud Computing,98,4
+Zubair Hussain,Lahore,Database Admin,44,AI in Healthcare,86,1
+Fatima Noor,Bahawalpur,Product Manager,41,Python for Backend,68,1
+Mehwish Khan,Multan,Cybersecurity Analyst,24,AI in Healthcare,74,2
+Sadia Arif,Bahawalpur,Cybersecurity Analyst,26,AI in Healthcare,74,2
+Laiba Hassan,Gujranwala,Product Manager,40,Data Storytelling,85,3
+Laiba Hassan,Karachi,DevOps Engineer,28,Ethical Hacking,72,4
+Nimra Naveed,Gujranwala,Database Admin,42,Cloud Computing,91,2
+Anam Khalid,Gujranwala,Product Manager,30,Deep Learning,98,1
+Hira Shah,Bahawalpur,Database Admin,28,Python for Backend,91,4
+Hira Shah,Sialkot,Front-end Developer,39,Kubernetes 101,63,4
+Ali Raza,Sialkot,Software Engineer,25,Product Strategy,89,1
+Umar Khalid,Islamabad,UI/UX Designer,35,Product Strategy,96,2
+Danish Ali,Lahore,UI/UX Designer,39,Cyber Defense,82,1
+Hina Saleem,Quetta,Software Engineer,30,ML Ops,98,4
+Afshan Zubair,Peshawar,UI/UX Designer,42,Python for Backend,74,5
+Zubair Hussain,Peshawar,Data Scientist,23,Design Thinking,88,5
+Umar Khalid,Bahawalpur,Database Admin,41,Python for Backend,95,3
+Nida Farooq,Peshawar,Database Admin,36,AI in Healthcare,72,1
+Maham Riaz,Rawalpindi,Web Developer,28,Python for Backend,91,1
+Muneeb Aslam,Quetta,Backend Developer,33,Data Storytelling,66,3
+Noman Saeed,Faisalabad,Web Developer,29,Product Strategy,81,3
+Ahmed Junaid,Islamabad,Data Scientist,36,Python for Backend,87,3
+Osama Malik,Hyderabad,AI Researcher,24,Design Thinking,61,4
+Maham Riaz,Multan,Data Scientist,35,Design Thinking,65,1
+Ahmed Junaid,Quetta,Front-end Developer,38,Kubernetes 101,87,4
+Hamza Sheikh,Bahawalpur,Backend Developer,25,Python for Backend,87,3
+Anam Khalid,Lahore,DevOps Engineer,39,Kubernetes 101,79,1
+Laiba Hassan,Sialkot,UI/UX Designer,29,Data Storytelling,89,4
+Mishal Baig,Multan,Front-end Developer,25,AI in Healthcare,70,4
+Zeeshan Ali,Karachi,Product Manager,23,AI in Healthcare,87,3
+Sana Tariq,Gujranwala,Backend Developer,27,Kubernetes 101,84,1
+Saifullah Mehmood,Karachi,AI Researcher,43,Cloud Computing,98,3
+Hira Shah,Bahawalpur,ML Engineer,31,Data Storytelling,92,1
+Sana Tariq,Karachi,Database Admin,25,Cyber Defense,60,5
+Usman Khattak,Rawalpindi,Database Admin,43,Cyber Defense,86,2
+Nimra Naveed,Hyderabad,Backend Developer,39,Python for Backend,72,2
+Rabia Zafar,Quetta,Data Scientist,33,Cyber Defense,100,2
+Muneeb Aslam,Karachi,Software Engineer,23,Design Thinking,62,3
+Hamza Sheikh,Islamabad,Backend Developer,31,Cloud Computing,98,5
+Asad Iqbal,Islamabad,Data Scientist,25,Kubernetes 101,65,1
+Waleed Junaid,Hyderabad,Software Engineer,35,Product Strategy,67,4
+Iqra Yousaf,Peshawar,Cybersecurity Analyst,37,Deep Learning,86,1
+Waleed Junaid,Peshawar,UI/UX Designer,36,Deep Learning,68,4
+Mishal Baig,Multan,Data Scientist,29,ML Ops,96,1
+Hira Shah,Lahore,Web Developer,35,Python for Backend,92,5
+Nida Farooq,Lahore,Front-end Developer,44,Ethical Hacking,83,4
+Anam Khalid,Rawalpindi,Web Developer,29,ML Ops,74,3
+Zara Shahid,Bahawalpur,Data Scientist,42,ReactJS Masterclass,91,1
+Shahid Mehmood,Bahawalpur,DevOps Engineer,37,Data Storytelling,91,1
+Rameen Tariq,Hyderabad,Product Manager,34,Ethical Hacking,83,4
+Tania Bukhari,Multan,UI/UX Designer,39,Python for Backend,100,3
+Saifullah Mehmood,Karachi,UI/UX Designer,36,Data Storytelling,71,3
+Junaid Farooq,Multan,ML Engineer,42,Data Storytelling,98,5
+Mehwish Khan,Islamabad,UI/UX Designer,45,Kubernetes 101,61,3
+Usman Khattak,Multan,Front-end Developer,34,Data Storytelling,62,3
+Bilal Ahmed,Gujranwala,DevOps Engineer,30,AI in Healthcare,96,3
+Nida Farooq,Gujranwala,Software Engineer,36,Design Thinking,76,2
+Shahid Mehmood,Hyderabad,Software Engineer,34,Kubernetes 101,61,5
+Zubair Hussain,Bahawalpur,Cybersecurity Analyst,22,ML Ops,61,1
+Umar Khalid,Karachi,UI/UX Designer,28,Design Thinking,87,4
+Zara Shahid,Bahawalpur,Web Developer,30,Product Strategy,82,1
+Zubair Hussain,Quetta,UI/UX Designer,45,Cyber Defense,96,5
+Rehan Qureshi,Sialkot,ML Engineer,22,Cloud Computing,91,4
+Huma Nawaz,Islamabad,Backend Developer,33,Python for Backend,92,5

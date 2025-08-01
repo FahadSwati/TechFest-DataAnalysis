@@ -1,0 +1,501 @@
+Name,City,Profession,Age,Workshop,Presentation_Score,Feedback_Rating,Participation_Status
+Sana Tariq,Faisalabad,Front-end Developer,,Ethical Hacking,67.0,1,Cancelled
+Rameen Tariq,Multan,AI Researcher,41.0,Cyber Defense,83.0,3,Confirmed
+Umar Khalid,Lahore,Front-end Developer,,Ethical Hacking,70.0,2,Cancelled
+Kiran Siddiqui,Peshawar,DevOps Engineer,32.0,Product Strategy,76.0,5,Cancelled
+Nida Farooq,Islamabad,Web Developer,29.0,Deep Learning,67.0,4,Confirmed
+Fatima Noor,Sialkot,ML Engineer,42.0,ReactJS Masterclass,94.0,2,Confirmed
+Noman Saeed,Rawalpindi,Data Scientist,28.0,ReactJS Masterclass,94.0,4,Cancelled
+Arsalan Rauf,Gujranwala,Front-end Developer,40.0,ML Ops,92.0,3,Pending
+Afshan Zubair,Islamabad,Cybersecurity Analyst,44.0,Python for Backend,64.0,3,Cancelled
+Hamza Sheikh,Multan,DevOps Engineer,,Cyber Defense,98.0,1,Cancelled
+Muneeb Aslam,Hyderabad,Backend Developer,32.0,Ethical Hacking,100.0,5,Cancelled
+Basit Iqbal,Karachi,Database Admin,,AI in Healthcare,87.0,4,Cancelled
+Arsalan Rauf,Islamabad,UI/UX Designer,42.0,Product Strategy,66.0,2,Confirmed
+Anam Khalid,Bahawalpur,DevOps Engineer,25.0,Cyber Defense,68.0,3,Cancelled
+Laiba Hassan,Multan,Front-end Developer,29.0,Design Thinking,67.0,1,Pending
+Basit Iqbal,Hyderabad,Cybersecurity Analyst,45.0,Data Storytelling,71.0,1,Confirmed
+Areeba Khan,Karachi,DevOps Engineer,24.0,Design Thinking,93.0,4,Pending
+Sana Tariq,Rawalpindi,Front-end Developer,43.0,Cyber Defense,92.0,3,Pending
+Tania Bukhari,Hyderabad,ML Engineer,42.0,Cyber Defense,82.0,5,Pending
+Danish Ali,Peshawar,Backend Developer,23.0,AI in Healthcare,83.0,3,Pending
+Mehwish Khan,Sialkot,Software Engineer,45.0,Kubernetes 101,96.0,4,Confirmed
+Junaid Farooq,Karachi,Product Manager,33.0,Product Strategy,94.0,4,Confirmed
+Arsalan Rauf,Hyderabad,Database Admin,,ML Ops,99.0,3,Pending
+Rabia Zafar,Islamabad,ML Engineer,23.0,Python for Backend,81.0,4,Pending
+Omer Abbasi,Quetta,Data Scientist,42.0,Deep Learning,86.0,3,Confirmed
+Tariq Bashir,Bahawalpur,Backend Developer,22.0,Data Storytelling,94.0,2,Confirmed
+Areeba Khan,Gujranwala,Product Manager,33.0,Cloud Computing,60.0,3,Confirmed
+Basit Iqbal,Quetta,,43.0,Product Strategy,94.0,3,Cancelled
+Basit Iqbal,Faisalabad,Data Scientist,33.0,Python for Backend,96.0,4,Cancelled
+Anam Khalid,Multan,,38.0,ML Ops,73.0,4,Cancelled
+Adeel Bhatti,Quetta,Front-end Developer,,Product Strategy,62.0,1,Pending
+Bilal Ahmed,Islamabad,Data Scientist,37.0,Kubernetes 101,60.0,1,Cancelled
+Saifullah Mehmood,Karachi,UI/UX Designer,36.0,Kubernetes 101,64.0,2,Pending
+Bilal Ahmed,Islamabad,ML Engineer,,Design Thinking,85.0,1,Pending
+Afshan Zubair,Rawalpindi,Product Manager,40.0,ReactJS Masterclass,73.0,3,Cancelled
+Umar Khalid,Islamabad,Product Manager,33.0,Cloud Computing,98.0,4,Pending
+Zubair Hussain,Lahore,Database Admin,44.0,AI in Healthcare,86.0,1,Cancelled
+Fatima Noor,Bahawalpur,Product Manager,41.0,Python for Backend,68.0,1,Cancelled
+Mehwish Khan,Multan,Cybersecurity Analyst,24.0,AI in Healthcare,74.0,2,Confirmed
+Sadia Arif,Bahawalpur,Cybersecurity Analyst,26.0,AI in Healthcare,74.0,2,Cancelled
+Laiba Hassan,Gujranwala,Product Manager,40.0,Data Storytelling,85.0,3,Confirmed
+Laiba Hassan,Karachi,DevOps Engineer,28.0,Ethical Hacking,,4,Cancelled
+Nimra Naveed,Gujranwala,Database Admin,42.0,Cloud Computing,,2,Cancelled
+Anam Khalid,Gujranwala,Product Manager,30.0,Deep Learning,98.0,1,Confirmed
+Hira Shah,Bahawalpur,Database Admin,28.0,Python for Backend,91.0,4,Confirmed
+Hira Shah,Sialkot,Front-end Developer,39.0,Kubernetes 101,63.0,4,Cancelled
+Ali Raza,Sialkot,Software Engineer,25.0,Product Strategy,89.0,1,Pending
+Umar Khalid,Islamabad,,35.0,Product Strategy,,2,Confirmed
+Danish Ali,Lahore,UI/UX Designer,39.0,Cyber Defense,82.0,1,Pending
+Hina Saleem,Quetta,,30.0,ML Ops,98.0,4,Pending
+Afshan Zubair,Peshawar,UI/UX Designer,42.0,Python for Backend,74.0,5,Pending
+Zubair Hussain,Peshawar,,23.0,Design Thinking,88.0,5,Confirmed
+Umar Khalid,Bahawalpur,Database Admin,41.0,Python for Backend,95.0,3,Pending
+Nida Farooq,Peshawar,Database Admin,36.0,AI in Healthcare,72.0,1,Confirmed
+Maham Riaz,Rawalpindi,Web Developer,28.0,Python for Backend,91.0,1,Pending
+Muneeb Aslam,Quetta,Backend Developer,33.0,Data Storytelling,66.0,3,Cancelled
+Noman Saeed,Faisalabad,Web Developer,29.0,Product Strategy,,3,Cancelled
+Ahmed Junaid,Islamabad,,36.0,Python for Backend,87.0,3,Confirmed
+Osama Malik,Hyderabad,AI Researcher,24.0,Design Thinking,61.0,4,Cancelled
+Maham Riaz,Multan,Data Scientist,35.0,Design Thinking,65.0,1,Cancelled
+Ahmed Junaid,Quetta,Front-end Developer,38.0,Kubernetes 101,87.0,4,Pending
+Hamza Sheikh,Bahawalpur,Backend Developer,25.0,Python for Backend,87.0,3,Confirmed
+Anam Khalid,Lahore,DevOps Engineer,39.0,Kubernetes 101,79.0,1,Pending
+Laiba Hassan,Sialkot,UI/UX Designer,,Data Storytelling,89.0,4,Pending
+Mishal Baig,Multan,Front-end Developer,25.0,AI in Healthcare,70.0,4,Pending
+Zeeshan Ali,Karachi,Product Manager,23.0,AI in Healthcare,,3,Pending
+Sana Tariq,,Backend Developer,27.0,Kubernetes 101,84.0,1,Pending
+Saifullah Mehmood,,AI Researcher,43.0,Cloud Computing,98.0,3,Pending
+Hira Shah,Bahawalpur,ML Engineer,,Data Storytelling,92.0,1,Pending
+Sana Tariq,Karachi,Database Admin,25.0,Cyber Defense,60.0,5,Confirmed
+Usman Khattak,Rawalpindi,Database Admin,,Cyber Defense,,2,Cancelled
+Nimra Naveed,Hyderabad,Backend Developer,39.0,Python for Backend,72.0,2,Pending
+Rabia Zafar,Quetta,Data Scientist,33.0,Cyber Defense,100.0,2,Pending
+Muneeb Aslam,Karachi,Software Engineer,,Design Thinking,62.0,3,Pending
+Hamza Sheikh,Islamabad,Backend Developer,31.0,Cloud Computing,98.0,5,Pending
+Asad Iqbal,Islamabad,Data Scientist,25.0,Kubernetes 101,65.0,1,Pending
+Waleed Junaid,,,,Product Strategy,67.0,4,Pending
+Iqra Yousaf,Peshawar,Cybersecurity Analyst,,Deep Learning,,1,Cancelled
+Waleed Junaid,Peshawar,,36.0,Deep Learning,68.0,4,Cancelled
+Mishal Baig,Multan,Data Scientist,29.0,ML Ops,96.0,1,Pending
+Hira Shah,Lahore,Web Developer,35.0,Python for Backend,92.0,5,Cancelled
+Nida Farooq,Lahore,Front-end Developer,44.0,Ethical Hacking,83.0,4,Confirmed
+Anam Khalid,Rawalpindi,Web Developer,29.0,ML Ops,,3,Pending
+Zara Shahid,Bahawalpur,Data Scientist,42.0,ReactJS Masterclass,91.0,1,Confirmed
+Shahid Mehmood,Bahawalpur,DevOps Engineer,,Data Storytelling,91.0,1,Confirmed
+Rameen Tariq,Hyderabad,Product Manager,34.0,Ethical Hacking,83.0,4,Pending
+Tania Bukhari,Multan,UI/UX Designer,39.0,Python for Backend,100.0,3,Cancelled
+Saifullah Mehmood,Karachi,UI/UX Designer,36.0,Data Storytelling,71.0,3,Confirmed
+Junaid Farooq,Multan,ML Engineer,42.0,Data Storytelling,98.0,5,Pending
+Mehwish Khan,Islamabad,UI/UX Designer,45.0,Kubernetes 101,61.0,3,Confirmed
+Usman Khattak,Multan,,34.0,Data Storytelling,62.0,3,Confirmed
+Bilal Ahmed,Gujranwala,DevOps Engineer,30.0,AI in Healthcare,96.0,3,Confirmed
+Nida Farooq,Gujranwala,Software Engineer,36.0,Design Thinking,76.0,2,Confirmed
+Shahid Mehmood,Hyderabad,Software Engineer,,Kubernetes 101,61.0,5,Cancelled
+Zubair Hussain,Bahawalpur,Cybersecurity Analyst,22.0,ML Ops,61.0,1,Confirmed
+Umar Khalid,Karachi,UI/UX Designer,28.0,Design Thinking,87.0,4,Confirmed
+Zara Shahid,Bahawalpur,Web Developer,30.0,Product Strategy,82.0,1,Confirmed
+Zubair Hussain,Quetta,UI/UX Designer,45.0,Cyber Defense,96.0,5,Cancelled
+Rehan Qureshi,Sialkot,ML Engineer,22.0,Cloud Computing,91.0,4,Confirmed
+Huma Nawaz,Islamabad,Backend Developer,33.0,Python for Backend,92.0,5,Confirmed
+Sana Tariq,Faisalabad,Front-end Developer,28.0,Ethical Hacking,67.0,1,Cancelled
+Rameen Tariq,Multan,,,Cyber Defense,83.0,3,Cancelled
+Umar Khalid,Lahore,Front-end Developer,36.0,Ethical Hacking,70.0,2,Cancelled
+Kiran Siddiqui,Peshawar,DevOps Engineer,32.0,Product Strategy,76.0,5,Confirmed
+Nida Farooq,Islamabad,Web Developer,,Deep Learning,67.0,4,Cancelled
+Fatima Noor,Sialkot,ML Engineer,42.0,ReactJS Masterclass,94.0,2,Cancelled
+Noman Saeed,Rawalpindi,Data Scientist,28.0,ReactJS Masterclass,94.0,4,Confirmed
+Arsalan Rauf,Gujranwala,Front-end Developer,40.0,ML Ops,92.0,3,Cancelled
+Afshan Zubair,Islamabad,Cybersecurity Analyst,44.0,Python for Backend,,3,Confirmed
+Hamza Sheikh,Multan,DevOps Engineer,32.0,Cyber Defense,98.0,1,Pending
+Muneeb Aslam,Hyderabad,Backend Developer,32.0,Ethical Hacking,100.0,5,Cancelled
+Basit Iqbal,Karachi,Database Admin,45.0,AI in Healthcare,87.0,4,Pending
+Arsalan Rauf,Islamabad,UI/UX Designer,42.0,Product Strategy,66.0,2,Confirmed
+Anam Khalid,Bahawalpur,DevOps Engineer,25.0,Cyber Defense,68.0,3,Cancelled
+Laiba Hassan,Multan,Front-end Developer,29.0,Design Thinking,67.0,1,Confirmed
+Basit Iqbal,Hyderabad,,45.0,Data Storytelling,71.0,1,Pending
+Areeba Khan,Karachi,DevOps Engineer,24.0,Design Thinking,93.0,4,Confirmed
+Sana Tariq,Rawalpindi,Front-end Developer,43.0,Cyber Defense,92.0,3,Cancelled
+Tania Bukhari,Hyderabad,ML Engineer,42.0,Cyber Defense,82.0,5,Cancelled
+Danish Ali,Peshawar,Backend Developer,23.0,AI in Healthcare,83.0,3,Pending
+Mehwish Khan,Sialkot,Software Engineer,45.0,Kubernetes 101,96.0,4,Confirmed
+Junaid Farooq,Karachi,Product Manager,33.0,Product Strategy,94.0,4,Cancelled
+Arsalan Rauf,Hyderabad,Database Admin,27.0,ML Ops,99.0,3,Pending
+Rabia Zafar,,ML Engineer,23.0,Python for Backend,81.0,4,Cancelled
+Omer Abbasi,,Data Scientist,,Deep Learning,86.0,3,Cancelled
+Tariq Bashir,Bahawalpur,Backend Developer,22.0,Data Storytelling,94.0,2,Confirmed
+Areeba Khan,Gujranwala,Product Manager,33.0,Cloud Computing,60.0,3,Cancelled
+Basit Iqbal,Quetta,AI Researcher,43.0,Product Strategy,94.0,3,Confirmed
+Basit Iqbal,Faisalabad,Data Scientist,33.0,Python for Backend,96.0,4,Cancelled
+Anam Khalid,Multan,ML Engineer,38.0,ML Ops,73.0,4,Pending
+Adeel Bhatti,,Front-end Developer,31.0,Product Strategy,62.0,1,Cancelled
+Bilal Ahmed,Islamabad,Data Scientist,37.0,Kubernetes 101,60.0,1,Confirmed
+Saifullah Mehmood,Karachi,UI/UX Designer,36.0,Kubernetes 101,64.0,2,Confirmed
+Bilal Ahmed,Islamabad,ML Engineer,36.0,Design Thinking,85.0,1,Pending
+Afshan Zubair,Rawalpindi,Product Manager,40.0,ReactJS Masterclass,73.0,3,Cancelled
+Umar Khalid,Islamabad,Product Manager,33.0,Cloud Computing,98.0,4,Cancelled
+Zubair Hussain,Lahore,Database Admin,44.0,AI in Healthcare,86.0,1,Pending
+Fatima Noor,Bahawalpur,Product Manager,41.0,Python for Backend,68.0,1,Cancelled
+Mehwish Khan,Multan,Cybersecurity Analyst,24.0,AI in Healthcare,74.0,2,Cancelled
+Sadia Arif,Bahawalpur,Cybersecurity Analyst,26.0,AI in Healthcare,74.0,2,Confirmed
+Laiba Hassan,Gujranwala,Product Manager,40.0,Data Storytelling,85.0,3,Cancelled
+Laiba Hassan,Karachi,DevOps Engineer,28.0,Ethical Hacking,72.0,4,Cancelled
+Nimra Naveed,Gujranwala,Database Admin,42.0,Cloud Computing,91.0,2,Pending
+Anam Khalid,Gujranwala,Product Manager,30.0,Deep Learning,98.0,1,Pending
+Hira Shah,Bahawalpur,Database Admin,28.0,Python for Backend,91.0,4,Confirmed
+Hira Shah,Sialkot,Front-end Developer,39.0,Kubernetes 101,63.0,4,Cancelled
+Ali Raza,Sialkot,Software Engineer,25.0,Product Strategy,89.0,1,Cancelled
+Umar Khalid,Islamabad,UI/UX Designer,35.0,Product Strategy,96.0,2,Cancelled
+Danish Ali,Lahore,UI/UX Designer,39.0,Cyber Defense,,1,Confirmed
+Hina Saleem,Quetta,Software Engineer,30.0,ML Ops,98.0,4,Confirmed
+Afshan Zubair,Peshawar,UI/UX Designer,42.0,Python for Backend,74.0,5,Pending
+Zubair Hussain,Peshawar,Data Scientist,23.0,Design Thinking,88.0,5,Confirmed
+Umar Khalid,Bahawalpur,Database Admin,41.0,Python for Backend,95.0,3,Cancelled
+Nida Farooq,Peshawar,Database Admin,36.0,AI in Healthcare,72.0,1,Cancelled
+Maham Riaz,,Web Developer,28.0,Python for Backend,91.0,1,Confirmed
+Muneeb Aslam,Quetta,Backend Developer,,Data Storytelling,66.0,3,Cancelled
+Noman Saeed,Faisalabad,Web Developer,29.0,Product Strategy,81.0,3,Cancelled
+Ahmed Junaid,Islamabad,Data Scientist,36.0,Python for Backend,87.0,3,Confirmed
+Osama Malik,Hyderabad,AI Researcher,24.0,Design Thinking,61.0,4,Confirmed
+Maham Riaz,Multan,Data Scientist,35.0,Design Thinking,65.0,1,Cancelled
+Ahmed Junaid,Quetta,Front-end Developer,38.0,Kubernetes 101,87.0,4,Cancelled
+Hamza Sheikh,Bahawalpur,Backend Developer,25.0,Python for Backend,87.0,3,Cancelled
+Anam Khalid,Lahore,DevOps Engineer,39.0,Kubernetes 101,79.0,1,Pending
+Laiba Hassan,Sialkot,UI/UX Designer,29.0,Data Storytelling,89.0,4,Pending
+Mishal Baig,Multan,Front-end Developer,25.0,AI in Healthcare,,4,Pending
+Zeeshan Ali,Karachi,Product Manager,23.0,AI in Healthcare,87.0,3,Confirmed
+Sana Tariq,Gujranwala,Backend Developer,27.0,Kubernetes 101,,1,Pending
+Saifullah Mehmood,Karachi,AI Researcher,43.0,Cloud Computing,98.0,3,Confirmed
+Hira Shah,Bahawalpur,ML Engineer,31.0,Data Storytelling,92.0,1,Confirmed
+Sana Tariq,Karachi,Database Admin,25.0,Cyber Defense,60.0,5,Pending
+Usman Khattak,Rawalpindi,Database Admin,43.0,Cyber Defense,86.0,2,Pending
+Nimra Naveed,Hyderabad,Backend Developer,39.0,Python for Backend,72.0,2,Pending
+Rabia Zafar,Quetta,Data Scientist,33.0,Cyber Defense,100.0,2,Cancelled
+Muneeb Aslam,Karachi,Software Engineer,,Design Thinking,62.0,3,Pending
+Hamza Sheikh,,Backend Developer,31.0,Cloud Computing,98.0,5,Cancelled
+Asad Iqbal,Islamabad,Data Scientist,25.0,Kubernetes 101,65.0,1,Confirmed
+Waleed Junaid,Hyderabad,Software Engineer,35.0,Product Strategy,67.0,4,Cancelled
+Iqra Yousaf,Peshawar,Cybersecurity Analyst,37.0,Deep Learning,86.0,1,Pending
+Waleed Junaid,Peshawar,UI/UX Designer,36.0,Deep Learning,68.0,4,Confirmed
+Mishal Baig,,Data Scientist,29.0,ML Ops,96.0,1,Confirmed
+Hira Shah,Lahore,Web Developer,35.0,Python for Backend,92.0,5,Confirmed
+Nida Farooq,Lahore,Front-end Developer,44.0,Ethical Hacking,,4,Cancelled
+Anam Khalid,Rawalpindi,,29.0,ML Ops,74.0,3,Pending
+Zara Shahid,Bahawalpur,Data Scientist,42.0,ReactJS Masterclass,91.0,1,Confirmed
+Shahid Mehmood,Bahawalpur,,37.0,Data Storytelling,91.0,1,Confirmed
+Rameen Tariq,Hyderabad,Product Manager,,Ethical Hacking,83.0,4,Confirmed
+Tania Bukhari,Multan,UI/UX Designer,39.0,Python for Backend,100.0,3,Cancelled
+Saifullah Mehmood,Karachi,,36.0,Data Storytelling,71.0,3,Cancelled
+Junaid Farooq,,ML Engineer,42.0,Data Storytelling,98.0,5,Pending
+Mehwish Khan,Islamabad,UI/UX Designer,45.0,Kubernetes 101,61.0,3,Cancelled
+Usman Khattak,Multan,Front-end Developer,34.0,Data Storytelling,62.0,3,Confirmed
+Bilal Ahmed,Gujranwala,DevOps Engineer,30.0,AI in Healthcare,96.0,3,Pending
+Nida Farooq,Gujranwala,Software Engineer,36.0,Design Thinking,76.0,2,Confirmed
+Shahid Mehmood,Hyderabad,Software Engineer,34.0,Kubernetes 101,61.0,5,Confirmed
+Zubair Hussain,,,,ML Ops,61.0,1,Cancelled
+Umar Khalid,Karachi,UI/UX Designer,28.0,Design Thinking,87.0,4,Pending
+Zara Shahid,Bahawalpur,Web Developer,30.0,Product Strategy,82.0,1,Cancelled
+Zubair Hussain,Quetta,UI/UX Designer,45.0,Cyber Defense,96.0,5,Cancelled
+Rehan Qureshi,Sialkot,ML Engineer,22.0,Cloud Computing,91.0,4,Pending
+Huma Nawaz,Islamabad,Backend Developer,33.0,Python for Backend,92.0,5,Confirmed
+Sana Tariq,Faisalabad,Front-end Developer,28.0,Ethical Hacking,67.0,1,Confirmed
+Rameen Tariq,Multan,AI Researcher,41.0,Cyber Defense,83.0,3,Pending
+Umar Khalid,Lahore,,36.0,Ethical Hacking,70.0,2,Confirmed
+Kiran Siddiqui,Peshawar,DevOps Engineer,32.0,Product Strategy,76.0,5,Pending
+Nida Farooq,Islamabad,Web Developer,29.0,Deep Learning,67.0,4,Pending
+Fatima Noor,Sialkot,ML Engineer,42.0,ReactJS Masterclass,94.0,2,Cancelled
+Noman Saeed,Rawalpindi,,28.0,ReactJS Masterclass,94.0,4,Pending
+Arsalan Rauf,Gujranwala,Front-end Developer,40.0,ML Ops,92.0,3,Cancelled
+Afshan Zubair,Islamabad,,44.0,Python for Backend,64.0,3,Confirmed
+Hamza Sheikh,Multan,DevOps Engineer,,Cyber Defense,98.0,1,Confirmed
+Muneeb Aslam,Hyderabad,Backend Developer,32.0,Ethical Hacking,100.0,5,Confirmed
+Basit Iqbal,Karachi,Database Admin,,AI in Healthcare,87.0,4,Confirmed
+Arsalan Rauf,Islamabad,UI/UX Designer,42.0,Product Strategy,,2,Cancelled
+Anam Khalid,Bahawalpur,DevOps Engineer,25.0,Cyber Defense,68.0,3,Confirmed
+Laiba Hassan,Multan,Front-end Developer,29.0,Design Thinking,67.0,1,Pending
+Basit Iqbal,Hyderabad,Cybersecurity Analyst,45.0,Data Storytelling,71.0,1,Pending
+Areeba Khan,Karachi,DevOps Engineer,24.0,Design Thinking,93.0,4,Pending
+Sana Tariq,Rawalpindi,Front-end Developer,43.0,Cyber Defense,92.0,3,Cancelled
+Tania Bukhari,Hyderabad,,42.0,Cyber Defense,82.0,5,Confirmed
+Danish Ali,Peshawar,Backend Developer,23.0,AI in Healthcare,83.0,3,Confirmed
+Mehwish Khan,Sialkot,Software Engineer,45.0,Kubernetes 101,96.0,4,Confirmed
+Junaid Farooq,Karachi,Product Manager,33.0,Product Strategy,94.0,4,Cancelled
+Arsalan Rauf,Hyderabad,Database Admin,27.0,ML Ops,99.0,3,Pending
+Rabia Zafar,Islamabad,ML Engineer,23.0,Python for Backend,81.0,4,Pending
+Omer Abbasi,Quetta,Data Scientist,42.0,Deep Learning,,3,Confirmed
+Tariq Bashir,Bahawalpur,Backend Developer,22.0,Data Storytelling,94.0,2,Pending
+Areeba Khan,Gujranwala,Product Manager,33.0,Cloud Computing,60.0,3,Pending
+Basit Iqbal,Quetta,AI Researcher,43.0,Product Strategy,94.0,3,Cancelled
+Basit Iqbal,Faisalabad,Data Scientist,33.0,Python for Backend,96.0,4,Cancelled
+Anam Khalid,Multan,ML Engineer,38.0,ML Ops,73.0,4,Cancelled
+Adeel Bhatti,Quetta,Front-end Developer,31.0,Product Strategy,62.0,1,Cancelled
+Bilal Ahmed,Islamabad,Data Scientist,37.0,Kubernetes 101,60.0,1,Confirmed
+Saifullah Mehmood,Karachi,UI/UX Designer,36.0,Kubernetes 101,64.0,2,Cancelled
+Bilal Ahmed,Islamabad,ML Engineer,36.0,Design Thinking,85.0,1,Pending
+Afshan Zubair,Rawalpindi,Product Manager,40.0,ReactJS Masterclass,73.0,3,Confirmed
+Umar Khalid,Islamabad,Product Manager,33.0,Cloud Computing,98.0,4,Pending
+Zubair Hussain,Lahore,Database Admin,44.0,AI in Healthcare,86.0,1,Pending
+Fatima Noor,,Product Manager,41.0,Python for Backend,68.0,1,Pending
+Mehwish Khan,Multan,,24.0,AI in Healthcare,74.0,2,Cancelled
+Sadia Arif,Bahawalpur,Cybersecurity Analyst,26.0,AI in Healthcare,74.0,2,Cancelled
+Laiba Hassan,Gujranwala,Product Manager,40.0,Data Storytelling,85.0,3,Confirmed
+Laiba Hassan,Karachi,DevOps Engineer,28.0,Ethical Hacking,72.0,4,Confirmed
+Nimra Naveed,Gujranwala,Database Admin,42.0,Cloud Computing,91.0,2,Cancelled
+Anam Khalid,Gujranwala,Product Manager,30.0,Deep Learning,,1,Pending
+Hira Shah,Bahawalpur,Database Admin,28.0,Python for Backend,91.0,4,Confirmed
+Hira Shah,Sialkot,Front-end Developer,39.0,Kubernetes 101,63.0,4,Cancelled
+Ali Raza,Sialkot,Software Engineer,25.0,Product Strategy,89.0,1,Cancelled
+Umar Khalid,Islamabad,,35.0,Product Strategy,96.0,2,Cancelled
+Danish Ali,Lahore,UI/UX Designer,39.0,Cyber Defense,82.0,1,Pending
+Hina Saleem,Quetta,Software Engineer,30.0,ML Ops,98.0,4,Cancelled
+Afshan Zubair,Peshawar,UI/UX Designer,42.0,Python for Backend,74.0,5,Cancelled
+Zubair Hussain,Peshawar,Data Scientist,23.0,Design Thinking,88.0,5,Cancelled
+Umar Khalid,Bahawalpur,Database Admin,41.0,Python for Backend,95.0,3,Cancelled
+Nida Farooq,Peshawar,Database Admin,36.0,AI in Healthcare,72.0,1,Confirmed
+Maham Riaz,Rawalpindi,Web Developer,28.0,Python for Backend,91.0,1,Confirmed
+Muneeb Aslam,Quetta,Backend Developer,33.0,Data Storytelling,66.0,3,Cancelled
+Noman Saeed,Faisalabad,Web Developer,29.0,Product Strategy,81.0,3,Pending
+Ahmed Junaid,Islamabad,,36.0,Python for Backend,87.0,3,Confirmed
+Osama Malik,Hyderabad,AI Researcher,24.0,Design Thinking,61.0,4,Cancelled
+Maham Riaz,Multan,,35.0,Design Thinking,65.0,1,Confirmed
+Ahmed Junaid,Quetta,Front-end Developer,38.0,Kubernetes 101,87.0,4,Confirmed
+Hamza Sheikh,Bahawalpur,Backend Developer,25.0,Python for Backend,87.0,3,Pending
+Anam Khalid,Lahore,DevOps Engineer,39.0,Kubernetes 101,79.0,1,Cancelled
+Laiba Hassan,Sialkot,UI/UX Designer,29.0,Data Storytelling,89.0,4,Cancelled
+Mishal Baig,Multan,Front-end Developer,25.0,AI in Healthcare,70.0,4,Pending
+Zeeshan Ali,Karachi,Product Manager,23.0,AI in Healthcare,87.0,3,Pending
+Sana Tariq,Gujranwala,Backend Developer,27.0,Kubernetes 101,84.0,1,Cancelled
+Saifullah Mehmood,Karachi,,43.0,Cloud Computing,98.0,3,Cancelled
+Hira Shah,Bahawalpur,ML Engineer,31.0,Data Storytelling,92.0,1,Pending
+Sana Tariq,Karachi,Database Admin,25.0,Cyber Defense,60.0,5,Confirmed
+Usman Khattak,Rawalpindi,Database Admin,43.0,Cyber Defense,86.0,2,Confirmed
+Nimra Naveed,Hyderabad,Backend Developer,39.0,Python for Backend,72.0,2,Pending
+Rabia Zafar,Quetta,Data Scientist,33.0,Cyber Defense,100.0,2,Confirmed
+Muneeb Aslam,Karachi,,23.0,Design Thinking,62.0,3,Pending
+Hamza Sheikh,Islamabad,Backend Developer,31.0,Cloud Computing,,5,Confirmed
+Asad Iqbal,Islamabad,,25.0,Kubernetes 101,65.0,1,Confirmed
+Waleed Junaid,Hyderabad,,35.0,Product Strategy,67.0,4,Cancelled
+Iqra Yousaf,Peshawar,Cybersecurity Analyst,37.0,Deep Learning,86.0,1,Cancelled
+Waleed Junaid,Peshawar,UI/UX Designer,36.0,Deep Learning,68.0,4,Confirmed
+Mishal Baig,Multan,Data Scientist,29.0,ML Ops,96.0,1,Confirmed
+Hira Shah,Lahore,Web Developer,,Python for Backend,92.0,5,Cancelled
+Nida Farooq,Lahore,Front-end Developer,44.0,Ethical Hacking,83.0,4,Cancelled
+Anam Khalid,Rawalpindi,Web Developer,29.0,ML Ops,74.0,3,Cancelled
+Zara Shahid,Bahawalpur,Data Scientist,42.0,ReactJS Masterclass,91.0,1,Pending
+Shahid Mehmood,Bahawalpur,DevOps Engineer,37.0,Data Storytelling,91.0,1,Confirmed
+Rameen Tariq,Hyderabad,Product Manager,34.0,Ethical Hacking,83.0,4,Cancelled
+Tania Bukhari,Multan,UI/UX Designer,39.0,Python for Backend,100.0,3,Confirmed
+Saifullah Mehmood,Karachi,UI/UX Designer,36.0,Data Storytelling,71.0,3,Pending
+Junaid Farooq,Multan,ML Engineer,42.0,Data Storytelling,98.0,5,Pending
+Mehwish Khan,Islamabad,UI/UX Designer,45.0,Kubernetes 101,61.0,3,Cancelled
+Usman Khattak,Multan,Front-end Developer,34.0,Data Storytelling,62.0,3,Pending
+Bilal Ahmed,Gujranwala,DevOps Engineer,30.0,AI in Healthcare,96.0,3,Confirmed
+Nida Farooq,Gujranwala,Software Engineer,36.0,Design Thinking,76.0,2,Cancelled
+Shahid Mehmood,Hyderabad,Software Engineer,34.0,Kubernetes 101,61.0,5,Confirmed
+Zubair Hussain,Bahawalpur,Cybersecurity Analyst,22.0,ML Ops,61.0,1,Confirmed
+Umar Khalid,Karachi,UI/UX Designer,28.0,Design Thinking,87.0,4,Pending
+Zara Shahid,,Web Developer,30.0,Product Strategy,82.0,1,Pending
+Zubair Hussain,Quetta,UI/UX Designer,45.0,Cyber Defense,96.0,5,Pending
+Rehan Qureshi,Sialkot,ML Engineer,22.0,Cloud Computing,,4,Pending
+Huma Nawaz,Islamabad,Backend Developer,33.0,Python for Backend,92.0,5,Pending
+Sana Tariq,Faisalabad,Front-end Developer,28.0,Ethical Hacking,67.0,1,Cancelled
+Rameen Tariq,Multan,AI Researcher,41.0,Cyber Defense,83.0,3,Confirmed
+Umar Khalid,Lahore,Front-end Developer,36.0,Ethical Hacking,70.0,2,Confirmed
+Kiran Siddiqui,Peshawar,DevOps Engineer,32.0,Product Strategy,76.0,5,Confirmed
+Nida Farooq,Islamabad,Web Developer,29.0,Deep Learning,67.0,4,Confirmed
+Fatima Noor,Sialkot,ML Engineer,42.0,ReactJS Masterclass,94.0,2,Pending
+Noman Saeed,,Data Scientist,28.0,ReactJS Masterclass,94.0,4,Confirmed
+Arsalan Rauf,Gujranwala,Front-end Developer,40.0,ML Ops,92.0,3,Cancelled
+Afshan Zubair,Islamabad,Cybersecurity Analyst,44.0,Python for Backend,,3,Cancelled
+Hamza Sheikh,Multan,DevOps Engineer,32.0,Cyber Defense,98.0,1,Confirmed
+Muneeb Aslam,Hyderabad,Backend Developer,32.0,Ethical Hacking,100.0,5,Confirmed
+Basit Iqbal,Karachi,Database Admin,45.0,AI in Healthcare,87.0,4,Cancelled
+Arsalan Rauf,,UI/UX Designer,42.0,Product Strategy,66.0,2,Cancelled
+Anam Khalid,Bahawalpur,DevOps Engineer,25.0,Cyber Defense,68.0,3,Pending
+Laiba Hassan,Multan,Front-end Developer,29.0,Design Thinking,,1,Cancelled
+Basit Iqbal,Hyderabad,Cybersecurity Analyst,45.0,Data Storytelling,71.0,1,Pending
+Areeba Khan,Karachi,DevOps Engineer,,Design Thinking,93.0,4,Pending
+Sana Tariq,Rawalpindi,Front-end Developer,43.0,Cyber Defense,92.0,3,Pending
+Tania Bukhari,Hyderabad,ML Engineer,42.0,Cyber Defense,82.0,5,Pending
+Danish Ali,,Backend Developer,23.0,AI in Healthcare,83.0,3,Pending
+Mehwish Khan,Sialkot,Software Engineer,45.0,Kubernetes 101,96.0,4,Confirmed
+Junaid Farooq,Karachi,Product Manager,33.0,Product Strategy,94.0,4,Cancelled
+Arsalan Rauf,Hyderabad,Database Admin,27.0,ML Ops,99.0,3,Pending
+Rabia Zafar,Islamabad,ML Engineer,23.0,Python for Backend,81.0,4,Cancelled
+Omer Abbasi,Quetta,Data Scientist,42.0,Deep Learning,,3,Cancelled
+Tariq Bashir,Bahawalpur,Backend Developer,22.0,Data Storytelling,94.0,2,Pending
+Areeba Khan,Gujranwala,Product Manager,33.0,Cloud Computing,60.0,3,Confirmed
+Basit Iqbal,Quetta,AI Researcher,43.0,Product Strategy,94.0,3,Pending
+Basit Iqbal,Faisalabad,Data Scientist,33.0,Python for Backend,96.0,4,Confirmed
+Anam Khalid,Multan,ML Engineer,38.0,ML Ops,73.0,4,Cancelled
+Adeel Bhatti,Quetta,Front-end Developer,31.0,Product Strategy,62.0,1,Confirmed
+Bilal Ahmed,Islamabad,Data Scientist,37.0,Kubernetes 101,60.0,1,Confirmed
+Saifullah Mehmood,Karachi,UI/UX Designer,36.0,Kubernetes 101,64.0,2,Confirmed
+Bilal Ahmed,Islamabad,ML Engineer,,Design Thinking,85.0,1,Cancelled
+Afshan Zubair,Rawalpindi,Product Manager,,ReactJS Masterclass,73.0,3,Cancelled
+Umar Khalid,Islamabad,Product Manager,33.0,Cloud Computing,98.0,4,Confirmed
+Zubair Hussain,Lahore,Database Admin,,AI in Healthcare,86.0,1,Confirmed
+Fatima Noor,Bahawalpur,Product Manager,41.0,Python for Backend,68.0,1,Pending
+Mehwish Khan,Multan,Cybersecurity Analyst,24.0,AI in Healthcare,74.0,2,Confirmed
+Sadia Arif,Bahawalpur,,26.0,AI in Healthcare,74.0,2,Pending
+Laiba Hassan,Gujranwala,Product Manager,40.0,Data Storytelling,85.0,3,Confirmed
+Laiba Hassan,Karachi,DevOps Engineer,28.0,Ethical Hacking,72.0,4,Pending
+Nimra Naveed,Gujranwala,Database Admin,42.0,Cloud Computing,91.0,2,Cancelled
+Anam Khalid,Gujranwala,Product Manager,30.0,Deep Learning,98.0,1,Confirmed
+Hira Shah,Bahawalpur,Database Admin,28.0,Python for Backend,91.0,4,Confirmed
+Hira Shah,,Front-end Developer,39.0,Kubernetes 101,63.0,4,Confirmed
+Ali Raza,Sialkot,Software Engineer,25.0,Product Strategy,89.0,1,Confirmed
+Umar Khalid,Islamabad,UI/UX Designer,35.0,Product Strategy,,2,Pending
+Danish Ali,Lahore,UI/UX Designer,39.0,Cyber Defense,82.0,1,Confirmed
+Hina Saleem,Quetta,Software Engineer,30.0,ML Ops,98.0,4,Cancelled
+Afshan Zubair,Peshawar,UI/UX Designer,42.0,Python for Backend,74.0,5,Cancelled
+Zubair Hussain,Peshawar,,23.0,Design Thinking,88.0,5,Confirmed
+Umar Khalid,Bahawalpur,Database Admin,41.0,Python for Backend,95.0,3,Cancelled
+Nida Farooq,Peshawar,Database Admin,36.0,AI in Healthcare,72.0,1,Confirmed
+Maham Riaz,Rawalpindi,Web Developer,28.0,Python for Backend,91.0,1,Confirmed
+Muneeb Aslam,,Backend Developer,33.0,Data Storytelling,66.0,3,Cancelled
+Noman Saeed,Faisalabad,Web Developer,,Product Strategy,81.0,3,Confirmed
+Ahmed Junaid,,Data Scientist,36.0,Python for Backend,87.0,3,Cancelled
+Osama Malik,Hyderabad,AI Researcher,24.0,Design Thinking,61.0,4,Pending
+Maham Riaz,Multan,,35.0,Design Thinking,65.0,1,Confirmed
+Ahmed Junaid,Quetta,Front-end Developer,38.0,Kubernetes 101,87.0,4,Pending
+Hamza Sheikh,,,,Python for Backend,87.0,3,Cancelled
+Anam Khalid,Lahore,DevOps Engineer,39.0,Kubernetes 101,79.0,1,Pending
+Laiba Hassan,Sialkot,UI/UX Designer,29.0,Data Storytelling,89.0,4,Pending
+Mishal Baig,Multan,Front-end Developer,25.0,AI in Healthcare,70.0,4,Cancelled
+Zeeshan Ali,Karachi,Product Manager,23.0,AI in Healthcare,87.0,3,Pending
+Sana Tariq,Gujranwala,,27.0,Kubernetes 101,84.0,1,Pending
+Saifullah Mehmood,Karachi,AI Researcher,43.0,Cloud Computing,,3,Cancelled
+Hira Shah,Bahawalpur,ML Engineer,31.0,Data Storytelling,92.0,1,Pending
+Sana Tariq,Karachi,Database Admin,25.0,Cyber Defense,,5,Cancelled
+Usman Khattak,Rawalpindi,Database Admin,43.0,Cyber Defense,86.0,2,Pending
+Nimra Naveed,Hyderabad,Backend Developer,,Python for Backend,72.0,2,Cancelled
+Rabia Zafar,Quetta,Data Scientist,33.0,Cyber Defense,100.0,2,Cancelled
+Muneeb Aslam,Karachi,Software Engineer,23.0,Design Thinking,62.0,3,Pending
+Hamza Sheikh,Islamabad,Backend Developer,,Cloud Computing,98.0,5,Pending
+Asad Iqbal,Islamabad,Data Scientist,25.0,Kubernetes 101,65.0,1,Pending
+Waleed Junaid,Hyderabad,Software Engineer,35.0,Product Strategy,67.0,4,Confirmed
+Iqra Yousaf,Peshawar,Cybersecurity Analyst,,Deep Learning,86.0,1,Confirmed
+Waleed Junaid,Peshawar,UI/UX Designer,36.0,Deep Learning,68.0,4,Confirmed
+Mishal Baig,Multan,Data Scientist,29.0,ML Ops,96.0,1,Cancelled
+Hira Shah,Lahore,Web Developer,35.0,Python for Backend,92.0,5,Pending
+Nida Farooq,Lahore,Front-end Developer,44.0,Ethical Hacking,83.0,4,Cancelled
+Anam Khalid,Rawalpindi,Web Developer,29.0,ML Ops,,3,Confirmed
+Zara Shahid,Bahawalpur,Data Scientist,42.0,ReactJS Masterclass,91.0,1,Pending
+Shahid Mehmood,Bahawalpur,DevOps Engineer,,Data Storytelling,91.0,1,Cancelled
+Rameen Tariq,Hyderabad,Product Manager,34.0,Ethical Hacking,83.0,4,Pending
+Tania Bukhari,Multan,UI/UX Designer,39.0,Python for Backend,100.0,3,Cancelled
+Saifullah Mehmood,Karachi,UI/UX Designer,36.0,Data Storytelling,71.0,3,Pending
+Junaid Farooq,Multan,ML Engineer,,Data Storytelling,98.0,5,Confirmed
+Mehwish Khan,Islamabad,UI/UX Designer,45.0,Kubernetes 101,61.0,3,Confirmed
+Usman Khattak,Multan,Front-end Developer,34.0,Data Storytelling,62.0,3,Pending
+Bilal Ahmed,Gujranwala,DevOps Engineer,30.0,AI in Healthcare,96.0,3,Cancelled
+Nida Farooq,Gujranwala,Software Engineer,36.0,Design Thinking,,2,Confirmed
+Shahid Mehmood,Hyderabad,Software Engineer,34.0,Kubernetes 101,61.0,5,Confirmed
+Zubair Hussain,,Cybersecurity Analyst,,ML Ops,61.0,1,Confirmed
+Umar Khalid,Karachi,UI/UX Designer,28.0,Design Thinking,87.0,4,Pending
+Zara Shahid,Bahawalpur,Web Developer,30.0,Product Strategy,82.0,1,Pending
+Zubair Hussain,Quetta,UI/UX Designer,45.0,Cyber Defense,96.0,5,Cancelled
+Rehan Qureshi,Sialkot,ML Engineer,22.0,Cloud Computing,91.0,4,Cancelled
+Huma Nawaz,Islamabad,Backend Developer,33.0,Python for Backend,92.0,5,Cancelled
+Sana Tariq,Faisalabad,Front-end Developer,28.0,Ethical Hacking,,1,Pending
+Rameen Tariq,Multan,AI Researcher,41.0,Cyber Defense,83.0,3,Pending
+Umar Khalid,Lahore,Front-end Developer,36.0,Ethical Hacking,70.0,2,Cancelled
+Kiran Siddiqui,Peshawar,DevOps Engineer,32.0,Product Strategy,76.0,5,Cancelled
+Nida Farooq,Islamabad,Web Developer,29.0,Deep Learning,67.0,4,Pending
+Fatima Noor,Sialkot,ML Engineer,42.0,ReactJS Masterclass,94.0,2,Cancelled
+Noman Saeed,Rawalpindi,Data Scientist,,ReactJS Masterclass,94.0,4,Confirmed
+Arsalan Rauf,Gujranwala,Front-end Developer,40.0,ML Ops,,3,Pending
+Afshan Zubair,Islamabad,Cybersecurity Analyst,,Python for Backend,64.0,3,Cancelled
+Hamza Sheikh,Multan,DevOps Engineer,,Cyber Defense,98.0,1,Pending
+Muneeb Aslam,Hyderabad,Backend Developer,32.0,Ethical Hacking,100.0,5,Confirmed
+Basit Iqbal,,Database Admin,45.0,AI in Healthcare,87.0,4,Pending
+Arsalan Rauf,Islamabad,UI/UX Designer,42.0,Product Strategy,,2,Pending
+Anam Khalid,Bahawalpur,DevOps Engineer,25.0,Cyber Defense,68.0,3,Pending
+Laiba Hassan,Multan,Front-end Developer,29.0,Design Thinking,67.0,1,Pending
+Basit Iqbal,Hyderabad,Cybersecurity Analyst,,Data Storytelling,71.0,1,Confirmed
+Areeba Khan,Karachi,DevOps Engineer,24.0,Design Thinking,,4,Pending
+Sana Tariq,Rawalpindi,Front-end Developer,43.0,Cyber Defense,92.0,3,Pending
+Tania Bukhari,Hyderabad,ML Engineer,42.0,Cyber Defense,82.0,5,Cancelled
+Danish Ali,Peshawar,Backend Developer,23.0,AI in Healthcare,83.0,3,Pending
+Mehwish Khan,Sialkot,Software Engineer,45.0,Kubernetes 101,96.0,4,Cancelled
+Junaid Farooq,Karachi,,33.0,Product Strategy,,4,Confirmed
+Arsalan Rauf,Hyderabad,Database Admin,27.0,ML Ops,99.0,3,Confirmed
+Rabia Zafar,Islamabad,ML Engineer,23.0,Python for Backend,81.0,4,Confirmed
+Omer Abbasi,Quetta,Data Scientist,42.0,Deep Learning,86.0,3,Confirmed
+Tariq Bashir,Bahawalpur,Backend Developer,22.0,Data Storytelling,94.0,2,Cancelled
+Areeba Khan,Gujranwala,Product Manager,33.0,Cloud Computing,60.0,3,Pending
+Basit Iqbal,Quetta,AI Researcher,43.0,Product Strategy,94.0,3,Confirmed
+Basit Iqbal,Faisalabad,Data Scientist,33.0,Python for Backend,96.0,4,Pending
+Anam Khalid,Multan,,38.0,ML Ops,73.0,4,Cancelled
+Adeel Bhatti,,Front-end Developer,31.0,Product Strategy,62.0,1,Cancelled
+Bilal Ahmed,Islamabad,Data Scientist,37.0,Kubernetes 101,60.0,1,Cancelled
+Saifullah Mehmood,Karachi,UI/UX Designer,36.0,Kubernetes 101,64.0,2,Confirmed
+Bilal Ahmed,Islamabad,ML Engineer,36.0,Design Thinking,85.0,1,Pending
+Afshan Zubair,Rawalpindi,Product Manager,40.0,ReactJS Masterclass,73.0,3,Pending
+Umar Khalid,Islamabad,,33.0,Cloud Computing,98.0,4,Pending
+Zubair Hussain,Lahore,Database Admin,44.0,AI in Healthcare,86.0,1,Cancelled
+Fatima Noor,Bahawalpur,Product Manager,41.0,Python for Backend,68.0,1,Confirmed
+Mehwish Khan,Multan,Cybersecurity Analyst,24.0,AI in Healthcare,74.0,2,Cancelled
+Sadia Arif,Bahawalpur,Cybersecurity Analyst,26.0,AI in Healthcare,74.0,2,Cancelled
+Laiba Hassan,Gujranwala,Product Manager,,Data Storytelling,85.0,3,Pending
+Laiba Hassan,Karachi,DevOps Engineer,28.0,Ethical Hacking,72.0,4,Cancelled
+Nimra Naveed,Gujranwala,Database Admin,42.0,Cloud Computing,,2,Pending
+Anam Khalid,Gujranwala,Product Manager,30.0,Deep Learning,98.0,1,Confirmed
+Hira Shah,Bahawalpur,Database Admin,28.0,Python for Backend,91.0,4,Pending
+Hira Shah,Sialkot,Front-end Developer,39.0,Kubernetes 101,63.0,4,Confirmed
+Ali Raza,Sialkot,Software Engineer,25.0,Product Strategy,89.0,1,Pending
+Umar Khalid,Islamabad,UI/UX Designer,35.0,Product Strategy,96.0,2,Cancelled
+Danish Ali,Lahore,UI/UX Designer,39.0,Cyber Defense,82.0,1,Cancelled
+Hina Saleem,,Software Engineer,30.0,ML Ops,98.0,4,Confirmed
+Afshan Zubair,Peshawar,UI/UX Designer,,Python for Backend,74.0,5,Confirmed
+Zubair Hussain,Peshawar,Data Scientist,23.0,Design Thinking,88.0,5,Confirmed
+Umar Khalid,Bahawalpur,Database Admin,41.0,Python for Backend,95.0,3,Pending
+Nida Farooq,Peshawar,Database Admin,36.0,AI in Healthcare,72.0,1,Pending
+Maham Riaz,Rawalpindi,Web Developer,28.0,Python for Backend,91.0,1,Confirmed
+Muneeb Aslam,Quetta,,33.0,Data Storytelling,66.0,3,Cancelled
+Noman Saeed,Faisalabad,Web Developer,29.0,Product Strategy,81.0,3,Pending
+Ahmed Junaid,Islamabad,Data Scientist,36.0,Python for Backend,87.0,3,Pending
+Osama Malik,Hyderabad,AI Researcher,24.0,Design Thinking,61.0,4,Pending
+Maham Riaz,,,35.0,Design Thinking,65.0,1,Confirmed
+Ahmed Junaid,Quetta,Front-end Developer,38.0,Kubernetes 101,,4,Confirmed
+Hamza Sheikh,Bahawalpur,Backend Developer,,Python for Backend,87.0,3,Confirmed
+Anam Khalid,Lahore,DevOps Engineer,39.0,Kubernetes 101,79.0,1,Confirmed
+Laiba Hassan,Sialkot,UI/UX Designer,29.0,Data Storytelling,89.0,4,Confirmed
+Mishal Baig,Multan,Front-end Developer,25.0,AI in Healthcare,70.0,4,Cancelled
+Zeeshan Ali,Karachi,Product Manager,23.0,AI in Healthcare,87.0,3,Cancelled
+Sana Tariq,Gujranwala,Backend Developer,27.0,Kubernetes 101,84.0,1,Confirmed
+Saifullah Mehmood,Karachi,AI Researcher,43.0,Cloud Computing,98.0,3,Pending
+Hira Shah,,ML Engineer,31.0,Data Storytelling,,1,Confirmed
+Sana Tariq,Karachi,,25.0,Cyber Defense,60.0,5,Cancelled
+Usman Khattak,Rawalpindi,Database Admin,43.0,Cyber Defense,86.0,2,Cancelled
+Nimra Naveed,Hyderabad,,39.0,Python for Backend,72.0,2,Pending
+Rabia Zafar,,,33.0,Cyber Defense,100.0,2,Cancelled
+Muneeb Aslam,Karachi,Software Engineer,23.0,Design Thinking,62.0,3,Confirmed
+Hamza Sheikh,Islamabad,Backend Developer,31.0,Cloud Computing,98.0,5,Pending
+Asad Iqbal,Islamabad,Data Scientist,,Kubernetes 101,65.0,1,Confirmed
+Waleed Junaid,Hyderabad,Software Engineer,35.0,Product Strategy,67.0,4,Confirmed
+Iqra Yousaf,Peshawar,Cybersecurity Analyst,37.0,Deep Learning,86.0,1,Pending
+Waleed Junaid,Peshawar,UI/UX Designer,36.0,Deep Learning,68.0,4,Confirmed
+Mishal Baig,Multan,Data Scientist,29.0,ML Ops,96.0,1,Cancelled
+Hira Shah,Lahore,Web Developer,35.0,Python for Backend,92.0,5,Confirmed
+Nida Farooq,Lahore,Front-end Developer,44.0,Ethical Hacking,83.0,4,Pending
+Anam Khalid,Rawalpindi,Web Developer,29.0,ML Ops,74.0,3,Pending
+Zara Shahid,Bahawalpur,Data Scientist,42.0,ReactJS Masterclass,91.0,1,Pending
+Shahid Mehmood,,DevOps Engineer,37.0,Data Storytelling,,1,Confirmed
+Rameen Tariq,Hyderabad,Product Manager,,Ethical Hacking,83.0,4,Pending
+Tania Bukhari,Multan,UI/UX Designer,39.0,Python for Backend,100.0,3,Pending
+Saifullah Mehmood,Karachi,UI/UX Designer,36.0,Data Storytelling,71.0,3,Confirmed
+Junaid Farooq,Multan,ML Engineer,42.0,Data Storytelling,98.0,5,Cancelled
+Mehwish Khan,Islamabad,UI/UX Designer,45.0,Kubernetes 101,61.0,3,Confirmed
+Usman Khattak,Multan,Front-end Developer,,Data Storytelling,62.0,3,Pending
+Bilal Ahmed,Gujranwala,DevOps Engineer,,AI in Healthcare,96.0,3,Pending
+Nida Farooq,Gujranwala,Software Engineer,36.0,Design Thinking,76.0,2,Confirmed
+Shahid Mehmood,Hyderabad,Software Engineer,34.0,Kubernetes 101,61.0,5,Cancelled
+Zubair Hussain,,Cybersecurity Analyst,22.0,ML Ops,61.0,1,Pending
+Umar Khalid,Karachi,UI/UX Designer,,Design Thinking,87.0,4,Pending
+Zara Shahid,Bahawalpur,Web Developer,30.0,Product Strategy,82.0,1,Pending
+Zubair Hussain,Quetta,UI/UX Designer,,Cyber Defense,96.0,5,Confirmed
+Rehan Qureshi,,ML Engineer,22.0,Cloud Computing,91.0,4,Pending
+Huma Nawaz,Islamabad,Backend Developer,33.0,Python for Backend,92.0,5,Cancelled
